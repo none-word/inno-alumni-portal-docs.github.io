@@ -802,7 +802,7 @@
         }, "object" == typeof exports && "undefined" != typeof module ? module.exports = t() : "function" == typeof define && define.amd ? define(t) : (e = "undefined" != typeof globalThis ? globalThis : e || self).Fuse = t();
       }
     });
-    var index_url = "http://localhost:1313/index.json";
+    var index_url = "http://localhost:1313/inno-alumni-portal-docs.github.io/index.json";
     var import_fuse_v6_6_2_min = __toESM(require_fuse_v6_6_2_min());
     async function init() {
       const data = fetch(index_url);

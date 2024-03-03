@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Блог on Okulus Dev</title>
-    <link>http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
-    <description>Recent content in Блог on Okulus Dev</description>
+    <title>Блог on Inno alumni portal docs</title>
+    <link>http://localhost:1313/inno-alumni-portal-docs.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3/</link>
+    <description>Recent content in Блог on Inno alumni portal docs</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>ru</language>
-    <lastBuildDate>Sun, 03 Mar 2024 23:44:12 +0300</lastBuildDate><atom:link href="http://localhost:1313/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
+    <language>en</language>
+    <lastBuildDate>Sun, 03 Mar 2024 23:44:12 +0300</lastBuildDate><atom:link href="http://localhost:1313/inno-alumni-portal-docs.github.io/tags/%D0%B1%D0%BB%D0%BE%D0%B3/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Привет, хабр!</title>
-      <link>http://localhost:1313/post/greeting/</link>
+      <link>http://localhost:1313/inno-alumni-portal-docs.github.io/post/greeting/</link>
       <pubDate>Sun, 03 Mar 2024 23:44:12 +0300</pubDate>
       
-      <guid>http://localhost:1313/post/greeting/</guid>
+      <guid>http://localhost:1313/inno-alumni-portal-docs.github.io/post/greeting/</guid>
       <description>Привет, хабр! Как дела, хабр?
 Пока, хабр? </description>
     </item>
