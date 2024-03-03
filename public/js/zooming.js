@@ -25,9 +25,9 @@
     mod
   ));
 
-  // ns-hugo:/Users/grishakostarev/inno-alumni-portal-docs.github.io/docs/themes/monochrome/assets/lib/js/zooming-v2.1.1.min.js
+  // ns-hugo:/Users/grishakostarev/inno-alumni-portal-docs.github.io/themes/monochrome/assets/lib/js/zooming-v2.1.1.min.js
   var require_zooming_v2_1_1_min = __commonJS({
-    "ns-hugo:/Users/grishakostarev/inno-alumni-portal-docs.github.io/docs/themes/monochrome/assets/lib/js/zooming-v2.1.1.min.js"(exports, module) {
+    "ns-hugo:/Users/grishakostarev/inno-alumni-portal-docs.github.io/themes/monochrome/assets/lib/js/zooming-v2.1.1.min.js"(exports, module) {
       !function(t, e) {
         "object" == typeof exports && "undefined" != typeof module ? module.exports = e() : "function" == typeof define && define.amd ? define(e) : (t = t || self).Zooming = e();
       }(exports, function() {

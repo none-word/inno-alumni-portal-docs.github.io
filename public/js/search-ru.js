@@ -27,7 +27,7 @@
       mod
     ));
     var require_fuse_v6_6_2_min = __commonJS({
-      "ns-hugo:/Users/grishakostarev/inno-alumni-portal-docs.github.io/docs/themes/monochrome/assets/lib/js/fuse-v6.6.2.min.js"(exports, module) {
+      "ns-hugo:/Users/grishakostarev/inno-alumni-portal-docs.github.io/themes/monochrome/assets/lib/js/fuse-v6.6.2.min.js"(exports, module) {
         var e;
         var t;
         e = exports, t = function() {
